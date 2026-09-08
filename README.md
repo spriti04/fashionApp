@@ -9,8 +9,8 @@ _Style with Clothes_ is a **clothing-only e-commerce web application** built wit
 - [📌 Project Description](#-project-description)
 - [🛠️ Technologies Used](#-technologies-used)
 - [✨ Features](#-features)
-  - [🧑‍💼 Admin]
-  - [🧍 User]
+  - 🧑‍💼 Admin
+  - 🧍 User
 - [📁 Project Structure](#-project-structure)
 
 ---
